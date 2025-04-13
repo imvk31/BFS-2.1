@@ -7,7 +7,7 @@ Rotting Oranges(https://leetcode.com/problems/rotting-oranges)
 
 ## Problem 2
 
-Employee Impotance(https://leetcode.com/problems/employee-importance/)
+Employee Importance(https://leetcode.com/problems/employee-importance/)
 
 
 
